@@ -1,4 +1,3 @@
-# final-paper
 # Project Title
 ## SOULSCAN
 An AI-Porewed mental wellness companion
