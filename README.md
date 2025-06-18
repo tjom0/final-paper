@@ -1,4 +1,4 @@
-## final-paper
+# final-paper
 # Project Title
 [Enter the title of your project]
 
