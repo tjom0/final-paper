@@ -55,7 +55,8 @@ This project utilizes a combination of **Google Sheets API**, **OpenAI GPT (LLM)
    - Risk classification result
    - Encouragement text
    - Contact information of the counseling center
-
+   
+### Result
 ![result](result.png)
 
 # Results
