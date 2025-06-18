@@ -19,7 +19,7 @@ After users submit their responses, we apply **LLMs (OpenAI GPT)** and **NLP tec
 - OpenAI API Key
 - Google Forms response
 
-Soulscan_with_Chatbot.ipynb
+(Soulscan_with_Chatbot.ipynb)
 
 # File Structure
 - Soulscan_with_Chatbot.ipynb        ← Main notebook for data analysis & response generation
@@ -57,8 +57,18 @@ This project utilizes a combination of **Google Sheets API**, **OpenAI GPT (LLM)
    - Encouragement text
    - Contact information of the counseling center
 
+![result](result.png)
+
 # Results
-[Provide a summary of your findings and conclusions, including any recommendations or implications for future research. Be sure to explain how your results address your research question or problem statement.]
+- The **fine-tuned GPT model** effectively distinguishes emotional tones from metaphorical language (e.g., colors, weather, symbols).
+- Users receive feedback in an empathetic and emotionally safe format, which increases their willingness to engage.
+- Deployment confirmed the model could process multiple responses, classify risk, and generate meaningful responses within seconds.
+- Initial user feedback (from testers) highlighted:
+  - Increased emotional self-awareness
+  - Appreciation for gentle, non-invasive delivery style
+  - Clearer intent to reflect or seek help
 
 # Contributors
-[List the contributors to your project and describe their roles and responsibilities.]
+HSUEH,CHUI-YUAN	110301078
+Sherley Laibhen	111305048
+YANG,HSIANG-CHI	110ZU1011
