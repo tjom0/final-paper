@@ -19,7 +19,7 @@ After users submit their responses, we apply **LLMs (OpenAI GPT)** and **NLP tec
 - OpenAI API Key
 - Google Forms response
 
-(./Soulscan_with_Chatbot.ipynb)
+[code](Soulscan_with_Chatbot.ipynb)
 
 # File Structure
 - Soulscan_with_Chatbot.ipynb        ← Main notebook for data analysis & response generation
