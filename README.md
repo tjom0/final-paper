@@ -22,7 +22,7 @@ After users submit their responses, we apply **LLMs (OpenAI GPT)** and **NLP tec
 
 # File Structure
 - Soulscan_with_Chatbot.ipynb        ← Main notebook for data analysis & response generation
-- Soulscan - Survey.csv              ← Data input format
+- [Soulscan - Survey.csv ](https://docs.google.com/forms/d/e/1FAIpQLSdQ4ccy-rdZMXRsHFgb98NMidGsLpApG1MZ5dAp7IIJo4W3Ew/viewform)             ← Data input format
 - README.md                          ← This file
 
 # Analysis
